@@ -37,16 +37,6 @@
         android:layout_height="207dp"
         android:id="@+id/calendarView" />
 
-    <RatingBar
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/ratingBar"
-        android:numStars="7"
-        android:rating="3"
-        android:stepSize="0.5"
-        android:max="7"
-        android:background="@android:color/holo_blue_bright" />
-
     <CheckBox
         android:text="CheckBox"
         android:layout_width="match_parent"
